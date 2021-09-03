@@ -1,5 +1,5 @@
 # main python proghram
-response=['Welcome to smart calculator','My name is MONTY',
+response=['Welcome to smart calculator','My name is CalciCalculator',
 		'Thanks for enjoy with me ','Sorry ,this is beyond my ability']
 
 # fetching tokens from the text command
